@@ -16,11 +16,11 @@
 </head>
 
 <body>
-<embed src="yolo.mp3" autostart="true" loop="true"
+<embed src="media/backgroud_music.mp3" autostart="true" loop="true"
 width="2" height="0">
 </embed>
 <noembed>
-<bgsound src="yolo.mp3" loop="infinite">
+<bgsound src="media/backgroud_music.mp3" loop="infinite">
 </noembed>
 	
 <div id="mainDiv">
